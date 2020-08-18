@@ -9,10 +9,8 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on ... Learning.
 - 🌱 I’m currently learning ... 
-<li>
   <ul>Web Design & Development</ul>
   <ul>Python Programming Langage</ul>
-</li>
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
