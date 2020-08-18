@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 -->
 - 📫 How to reach me: ... 
-<strong>E-mail: </strong><a href="mailto:rafidalhaque3@gmail.com">rafidalhaque3@gmail.com</a><br/>
+<strong>E-mail: </strong><a href="mailto:rafidalhaque@protonmail.com">rafidalhaque@protonmail.com</a><br/>
 <strong>Facebook: </strong><a href="https://www.facebook.com/rafidalhaqueofficial" target="blank">Rafid Al Haque.</a><br/>
 <strong>Telegram: </strong><a href="https://www.t.me/rafidalhaque" target="blank">@rafidalhaque</a><br/>
 - 😄 Pronouns: ... Rafid Al Haque. 
