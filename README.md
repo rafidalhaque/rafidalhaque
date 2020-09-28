@@ -1,4 +1,4 @@
-### Assalamu Alaikum Wa Rahmatullah 👋. I'm Rafid Al Haque. A Developer student from Bangladesh.
+### Assalamu Alaikum Wa Rahmatullah 👋. I'm Rafid Al Haque. A Developer &amp; student from Bangladesh.
 
 ### Welcome to my Github Profile.
 
