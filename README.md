@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 -->
 - 📫 How to reach me: ...<br/> 
 <strong>E-mail: </strong><a href="mailto:rafidalhaque@protonmail.com">rafidalhaque@protonmail.com</a><br/>
-<strong>Facebook: </strong><a href="https://www.facebook.com/rafidalhaqueofficial" target="blank">Rafid Al Haque.</a><br/>
-<strong>Telegram: </strong><a href="https://www.t.me/rafidalhaque" target="blank">@rafidalhaque</a><br/>
+<strong>Facebook: </strong><a href="https://www.facebook.com/rafidalhaqueofficial" target="_blank">Rafid Al Haque.</a><br/>
+<strong>Telegram: </strong><a href="https://t.me/rafidalhaque" target="_blank">@rafidalhaque</a><br/>
 - 😄 Pronouns: ... Rafid Al Haque. 
 <!--
 - ⚡ Fun fact: ...
