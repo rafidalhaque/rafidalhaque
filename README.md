@@ -14,6 +14,6 @@
 <strong>Telegram: </strong><a href="https://t.me/rafidalhaque" target="_blank">@rafidalhaque</a><br/>
 
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=rafidalhaque&show_icons=true&theme=radical)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=rafidalhaque&show_icons=true&theme=vue-dark)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafidalhaque&layout=compact)
