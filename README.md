@@ -1,4 +1,6 @@
-### <p style="align:centre;">Assalamu Alaikum Wa Rahmatullah 👋. I'm Rafid Al Haque. A Muslim Programmer, Student &amp; Online Activist from Bangladesh.</p>
+## Assalamu Alaikum Wa Rahmatullah 👋. I'm Rafid Al Haque.
+
+### A Muslim Programmer, Student &amp; Online Activist from Bangladesh.
 
 ### Welcome to my Github Profile.
 
@@ -14,6 +16,6 @@
 
 
 
-### 📈 My Github Stats: ... <br>
+#### 📈 My Github Stats: ... <br>
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=rafidalhaque&show_icons=true&theme=vue-dark)&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafidalhaque&layout=compact)
