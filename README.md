@@ -1,6 +1,7 @@
-## Assalamu Alaikum Wa Rahmatullah 👋. I'm Rafid Al Haque.
+## Assalamu Alaikum Wa Rahmatullah 👋. 
 
-### A Muslim Programmer, Student &amp; Online Activist from Bangladesh.
+
+I'm Rafid Al Haque. A Muslim Programmer, Student &amp; Online Activist from Bangladesh.
 
 ### Welcome to my Github Profile.
 
