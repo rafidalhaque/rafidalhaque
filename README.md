@@ -1,9 +1,6 @@
-## Assalamu Alaikum Wa Rahmatullah 👋. 
-
-
-I'm Rafid Al Haque. A Muslim Programmer, Student &amp; Online Activist from Bangladesh.
-
-### Welcome to my Github Profile.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&lines=Assalamu+Alaikum+Wa+Rahmatullah+%F0%9F%91%8B.+I'm+Rafid+Al+Haque.)](https://git.io/typing-svg)
+<h3 align="center">A Muslim Programmer, Student &amp; Online Activist from Space's biggest Inn.<br>Welcome to my GitHub Profile.</h3>
+<br>
 
 #### 📫 How to reach me: ...<br/> 
 <div align="center">
