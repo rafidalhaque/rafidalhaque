@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&lines=Assalamu+Alaikum+Wa+Rahmatullah+%F0%9F%91%8B.)](https://git.io/typing-svg)
-<h3 align="center">I'm Rafid Al Haque. A Muslim Programmer, Student &amp; Online Activist from Space's biggest Inn.<br>Welcome to my GitHub Profile.</h3>
+##### I'm Rafid Al Haque. A Muslim Programmer, Student &amp; Online Activist from Space's biggest Inn. Welcome to my GitHub Profile.
 <br>
 
 #### 📫 How to reach me: ...<br/> 
