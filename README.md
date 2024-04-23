@@ -5,7 +5,7 @@
 #### 📫 How to reach me: ...<br/> 
 <div align="center">
 
-  <a href="https://rafidalhaque.github.io"><img src="https://img.shields.io/badge/Website-rafidalhaque.github.io-black?style=for-the-badge&logo=Workplace" height=25></a>
+  <a href="https://rafidalhaque.me"><img src="https://img.shields.io/badge/Website-rafidalhaque.me-black?style=for-the-badge&logo=Workplace" height=25></a>
   <a href="https://twitter.com/rafidalhaque"><img src="https://img.shields.io/badge/Twitter-@rafidalhaque-blue?style=for-the-badge&logo=twitter" height=25></a>
   <a href="https://t.me/rafidalhaque"><img src="https://img.shields.io/badge/Telegram-@rafidalhaque-blue?style=for-the-badge&logo=Telegram" height=25></a>
 
