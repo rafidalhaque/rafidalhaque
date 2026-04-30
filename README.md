@@ -6,10 +6,10 @@ I don’t just build — I break things first (ethically 😉). That’s how I u
 
 I build for people — with the intention of leaving a better, more secure world for those who come after us.
 
-Most of my projects are living around the edge of security and privacy. But I also build things to make life easier (tbh, my life obviously 🫣).
+Most of my projects live at the edge of security and privacy. I also build tools to make life easier (mostly mine, to be honest 🫣).
 
-If you are curious about me you can know more from [rafidalhaque.github.io](https://rafidalhaque.github.io). 
+Curious to know more? Visit: https://rafidalhaque.github.io
 
-Feel free to reach me if you have any query related to my projects...
+Feel free to reach out if something I build interests you or if you want to collaborate.
 
 📫 Contact: [/contact](https://rafidalhaque.github.io/contact) | 📥 [inbox@mail.rafidalhaque.qzz.io](mailto:inbox@mail.rafidalhaque.qzz.io)
