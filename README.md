@@ -11,4 +11,5 @@ Most of my projects are living around the edge of security and privacy. But I al
 If you are curious about me you can know more from [rafidalhaque.github.io](https://rafidalhaque.github.io). 
 
 Feel free to reach me if you have any query related to my projects...
-Contact: [/contact](https://rafidalhaque.github.io/contact) | 📥 [inbox@mail.rafidalhaque.qzz.io](mailto:inbox@mail.rafidalhaque.qzz.io)
+
+📫 Contact: [/contact](https://rafidalhaque.github.io/contact) | 📥 [inbox@mail.rafidalhaque.qzz.io](mailto:inbox@mail.rafidalhaque.qzz.io)
